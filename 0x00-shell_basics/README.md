@@ -6,3 +6,4 @@ script 4 Display current directory contents, including hidden files (starting wi
 script 5 will display thw content of the current directory in a long format, with UID and GUID code and all hidden files diaplayed
 scripts 6 creates a directory named my_first_directory in the /tmp/ directory
 script 7 moves the file betty from /tmp/ to /tmp/my_first_directory
+script 8 deletes the file betty
