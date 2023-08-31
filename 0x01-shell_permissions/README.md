@@ -8,3 +8,4 @@ adds execute permission to the owner and the group owner, and read permission to
 script 7 adds execution permission to the owner, the group owner and the other users, to the file hello
 script 8 sets no permission to owner and group but gives other users all permission
 script 9 sets the mode of the file hello to this: -rwxr-x-wx
+script 10 sets the mode of the file hello the same as olleh’s mode
