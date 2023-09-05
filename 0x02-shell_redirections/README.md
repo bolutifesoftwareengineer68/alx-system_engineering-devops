@@ -23,3 +23,4 @@ script 22 displays all users and their home directories, sorted by users
 script 23 finds all empty files and directories in the current directory and all sub-directories
 script 24  lists all the files with a .gif extension in the current directory and all its sub-directories
 script 25 decodes acrostics that use the first letter of each line
+script 26 parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
