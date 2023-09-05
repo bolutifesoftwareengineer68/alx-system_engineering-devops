@@ -12,3 +12,4 @@ script 11 counts the number of directories and sub-directories in the current di
 script 12 displays the 10 newest files in the current directory sorted from the newest to the oldest
 script 13 takes a list of words as input and prints only words that appear exactly once
 script 14 Display lines containing the pattern “root” from the file /etc/passwd
+script 15 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
